@@ -7,4 +7,5 @@
     - だいぶ触れるようになった
 - [bevy_physics](https://github.com/77ko88ok/bevy_physics)
     - 動ける！
--   
+- [bevy_loading_glb](https://github.com/77ko88ok/bevy_loading_glb)
+    - gltf, glbを知った   
