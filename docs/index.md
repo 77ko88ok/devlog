@@ -7,7 +7,9 @@
 
 
 ## シェーダーの勉強
-[シェーダーの勉強の進捗](/games/shaders/learning.md)
+- [シェーダーの勉強の進捗](/games/shaders/learning.md)
+- [シェーダーの写経あるいは実験](/games/shaders/trial.md)
 
 ## ワールド生成の勉強
-[]
+- [ワールド生成の勉強の進捗]
+- [ゲームワールドあるいはゲームシステムの写経あるいは実験](games/worlds/trials.md)
