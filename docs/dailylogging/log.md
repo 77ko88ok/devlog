@@ -1,5 +1,9 @@
 # Daily Log
 
+### 2026/11/6
+- The book of shadersを読み進めた chapter6まで 
+- シェーダーのuniformが少しわかった
+
 ### 2026/11/5
 - glb/gltfを学んだ
 - bevy公式exampleをもとに、gltf、glbを読み込んでみた
