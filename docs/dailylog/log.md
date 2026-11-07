@@ -1,5 +1,8 @@
 # Daily Log
 
+### 2026.11.8
+- Burnの資料あつめ
+
 ### 2026.11.7
 - Bevyのtipsを整理しはじめた
 - rust-analyzerが重かったので、rust-glancerにしてみたら、良い感じだった
