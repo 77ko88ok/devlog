@@ -10,9 +10,10 @@
 - [シェーダーの写経あるいは実験](games/shaders/trial.md)
 
 ## ワールド生成の勉強
-- [ワールド生成の勉強の進捗]
+- [ワールド生成の勉強の進捗](games/worlds/learning.md)
 - [ゲームワールドあるいはゲームシステムの写経あるいは実験](games/worlds/trials.md)
 
 ## Rust, Bevyの勉強
 - [Rustを使用する際のtips](rust/tips.md)
 - [Bevyを使用する際のtips](games/Bevy/tips.md)
+- [AI policy]()
