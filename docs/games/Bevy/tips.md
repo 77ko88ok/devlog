@@ -1,7 +1,7 @@
 # Bevyを扱う上でのこまごました留意事項
 
+### wslでBevyがgpuを使用しない
 > [!TIP]
-> - wslでBevyがgpuを使用しない  
 > -> windows環境での開発がbetter   
 > -> 以下の解決策があった。しかし、vulkanやmesaなどの中継が複数あって、パフォーマンスやメモリなどにデメリットが生じる (wsl GPU renderer [^1])
 > ~~~rust
