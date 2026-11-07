@@ -14,4 +14,5 @@
 - [ゲームワールドあるいはゲームシステムの写経あるいは実験](games/worlds/trials.md)
 
 ## Rust, Bevyの勉強
+- [Rustを使用する際のtips](rust/tips.md)
 - [Bevyを使用する際のtips](games/Bevy/tips.md)
