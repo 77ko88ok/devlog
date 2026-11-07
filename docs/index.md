@@ -14,7 +14,7 @@
 - [ワールド生成の勉強の進捗](games/worlds/learning.md)
 - [ゲームワールドあるいはゲームシステムの写経あるいは実験](games/worlds/trials.md)
 
-## Rust, Bevy, Burnの勉強
+## Rust, Bevy, DataScienceの勉強
 ### Rust
 - [Rustを使用する際のtips](rust/tips.md)
 
@@ -23,5 +23,7 @@
 - [Bevyを使用する際のtips](games/Bevy/tips.md)
 - [AI policy](rust/AI_policy.md)
 
-### Burn
+### Data Science
+- [データサイエンスに関するcrates](DataScience/crates.md)
 - [Burnの勉強の進捗](DataScience/Burn/learning.md)
+- [Rustでのデータサイエンス実験の進捗](DataScience/trials.md)
