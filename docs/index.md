@@ -3,7 +3,7 @@
 「ねえ、誰かが言ったよ。ゆっくり歩け、そしてたっぷり水を飲めってね」（『1973年のピンボール』村上春樹）
 
 ## Daily Log　
-[デイリーログのページ](dailylog/log.md)
+[デイリーログのページ](dailylogging/log.md)
 
 ## シェーダーの勉強
 - [シェーダーの勉強の進捗](games/shaders/learning.md)
