@@ -14,6 +14,10 @@
 - [ゲームワールドあるいはゲームシステムの写経あるいは実験](games/worlds/trials.md)
 
 ## Rust, Bevyの勉強
+### Rust
 - [Rustを使用する際のtips](rust/tips.md)
+
+### Bevy
+- [Bevyアップデート情報](games/bevy/bevy_update.md)
 - [Bevyを使用する際のtips](games/Bevy/tips.md)
 - [AI policy](rust/AI_policy.md)
