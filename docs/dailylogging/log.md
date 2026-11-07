@@ -2,6 +2,7 @@
 
 ### 2026.11.7
 - Bevyのtipsを整理しはじめた
+- rust-analyzerが重かったので、rust-glancerにしてみたら、良い感じだった
 
 ### 2026.11.6
 - The book of shadersを読み進めた chapter6まで 
