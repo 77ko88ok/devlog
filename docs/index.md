@@ -16,4 +16,4 @@
 ## Rust, Bevyの勉強
 - [Rustを使用する際のtips](rust/tips.md)
 - [Bevyを使用する際のtips](games/Bevy/tips.md)
-- [AI policy](AI_policy.md)
+- [AI policy](rust/AI_policy.md)
