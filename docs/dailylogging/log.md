@@ -3,6 +3,7 @@
 ### 2026.11.7
 - Bevyのtipsを整理しはじめた
 - rust-analyzerが重かったので、rust-glancerにしてみたら、良い感じだった
+- glbを読み込んだworldで物理移動3dカメラを組み込み、動いた！(https://github.com/77ko88ok/bevy_loading_glb)
 
 ### 2026.11.6
 - The book of shadersを読み進めた chapter6まで 
