@@ -10,4 +10,7 @@
 - [bevy_physics](https://github.com/77ko88ok/bevy_physics)
     - 動ける！
 - [bevy_loading_glb](https://github.com/77ko88ok/bevy_loading_glb)
-    - gltf, glbを知った   
+    - gltf, glbを知った
+    - 他のアセットを読み込み、動いた！
+    - physics 3D cameraを組み込み、動いた！
+    - 読み込んだアセットに当たり判定がない
