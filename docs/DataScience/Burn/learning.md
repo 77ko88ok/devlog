@@ -1,4 +1,5 @@
-# 火を点けろ、燃え残った全てに
+# 火を点けろ、燃え残った全てに[^1]
+[^1]: https://www.armoredcore.net/
 
 ### Burn
 - [Github公式repo](https://github.com/Tracel-AI/burn)
