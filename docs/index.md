@@ -17,11 +17,11 @@
 ## Rust, Bevy, DataScienceの勉強
 ### Rust
 - [Rustを使用する際のtips](rust/tips.md)
+- [AI policy](rust/AI_policy.md)
 
 ### Bevy
 - [Bevyアップデート情報](games/bevy/bevy_update.md)
 - [Bevyを使用する際のtips](games/Bevy/tips.md)
-- [AI policy](rust/AI_policy.md)
 
 ### Data Science
 - [データサイエンスに関するcrates](DataScience/crates.md)
