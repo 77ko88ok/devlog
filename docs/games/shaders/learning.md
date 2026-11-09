@@ -11,5 +11,6 @@
 - それらをコンピュートシェーダー（Compute Shader）が実行する
 - 頂点シェーダーが位置情報を担う
 - フラグメントシェーダーは色を担う
+- WebGPUのスキーマはこの図がわかりやすい（[WebGPUの概要図](https://webgpufundamentals.org/webgpu/lessons/resources/webgpu-draw-diagram.svg)）
 
 ### HLSLシェーダーの魔導書
