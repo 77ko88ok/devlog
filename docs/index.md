@@ -16,6 +16,7 @@
 
 ## Rust, Bevy, DataScienceの勉強
 ### Rust
+- [Rustの勉強の進捗](rust/learning.md)
 - [Rustを使用する際のtips](rust/tips.md)
 - [AI policy](rust/AI_policy.md)
 
