@@ -17,4 +17,5 @@
 
 ### そのほかWEB上の情報
 - [WebGLからWebGPUにステップアップしよう！](https://qiita.com/emadurandal/items/624fe7edd147d5a648b1)
-- [opengl webgl 違いをわかりやすく解説する完全ガイド：中学生にも伝わるポイント3つ](https://chigai2.fromation.co.jp/archives/36098) 
+- [opengl webgl 違いをわかりやすく解説する完全ガイド：中学生にも伝わるポイント3つ](https://chigai2.fromation.co.jp/archives/36098)
+- [WGPU学習リソース](https://zenn.dev/omini/articles/8c866e2d2060aa)
