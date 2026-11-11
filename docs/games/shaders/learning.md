@@ -1,5 +1,15 @@
 # GPU描画を学ぶ
 
+## わかっていること
+- シェーダーとは、GPUで関数を計算させる仕組みのこと
+- WebGPUの主な言語として、wgsl(WebGPU shading language)とwgpuがある
+- wgslはrustに近い記述する独自言語で、wgpuはrustで実装されたWebGPU API
+- Bevy 0.20で併用できるようになったweslは、wgslの拡張版
+- つまり、自分にとって実務に直結しやすいのはwgsl
+
+## わかっていないこと
+- wgslとwgpu
+
 ### [The_Book_of_Shaders](https://thebookofshaders.com/?lan=jp)
 - gpu描画の仕組みというよりも、もっと根本的な描画物の数学的・アルゴリズム的な解説に感じた
 - 描画もつまるところ、関数・プログラムなのだと改めて知り、目から鱗が落ちる思いだった、いや実態をつかんだという感触だった
