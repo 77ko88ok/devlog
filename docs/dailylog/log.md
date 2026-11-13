@@ -1,7 +1,12 @@
 # Daily Log
 
+### 2026.11.13
+- local LLMのセッティングについて学んだ
+
 ### 2026.11.12
 - Burnをpython環境で使用する方法を学んだ
+- Burnをjupyter notebookで実行
+- KaggleのHousing PricesでBurnを試した
 
 ### 2026.11.11
 - WebGPUの基礎を読み進めると突如わからない用語・文法に当たって混乱した
