@@ -5,3 +5,4 @@
 - [Burn](Burn/learning.md)
 
 ### 前処理
+- Burnを用いるなら、ほぼすべてBurnでできる（[Burn](Burn/learning.md)）
