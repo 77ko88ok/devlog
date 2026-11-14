@@ -11,6 +11,9 @@
 ## わかっていないこと
 - wgslの記法
 
+## 学習過程
+レンダリング・シェーダー・GPGPUなどについて学んだリソースとそこから得た知見
+
 ### [The_Book_of_Shaders](https://thebookofshaders.com/?lan=jp)
 - gpu描画の仕組みというよりも、もっと根本的な描画物の数学的・アルゴリズム的な解説に感じた
 - 描画もつまるところ、関数・プログラムなのだと改めて知り、目から鱗が落ちる思いだった、いや実態をつかんだという感触だった
@@ -23,8 +26,11 @@
 - フラグメントシェーダーは色を担う
 - WebGPUのスキーマはこの図がわかりやすい（[WebGPUの概要図](https://webgpufundamentals.org/webgpu/lessons/resources/webgpu-draw-diagram.svg)）
 
-### HLSLシェーダーの魔導書
+### [HLSLシェーダーの魔導書](https://www.seshop.com/product/detail/23888)
 -
+
+### [リアルタイムグラフィックスの数学](https://gihyo.jp/book/2022/978-4-297-13034-3)
+- 
 
 ### そのほかWEB上の情報
 - [WebGLからWebGPUにステップアップしよう！](https://qiita.com/emadurandal/items/624fe7edd147d5a648b1)
