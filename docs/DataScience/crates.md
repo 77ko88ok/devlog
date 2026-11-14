@@ -6,3 +6,4 @@
 
 ### 前処理
 - Burnを用いるなら、ほぼすべてBurnでできる（[Burn](Burn/learning.md)）
+- そのほかのcratesを用いる場合について調べていく
