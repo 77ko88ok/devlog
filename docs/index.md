@@ -28,3 +28,7 @@
 - [データサイエンスに関するcrates](DataScience/crates.md)
 - [Burnの勉強の進捗](DataScience/Burn/learning.md)
 - [Rustでのデータサイエンス実験の進捗](DataScience/trials.md)
+
+## 開発環境の構築
+### LocalLLM
+- [localLLM](localLLM/progress.md)
