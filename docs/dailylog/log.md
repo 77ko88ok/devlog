@@ -1,5 +1,8 @@
 # Daily Log
 
+### 2926.11.16
+- wgslを学んだ group, binding
+
 ### 2026.11.15
 - local LLMを用いてOpenCodeで作業してみたが、コンテクスト長に悩まされた
 - primary-Agent, sub-Agentにしてみた
