@@ -14,3 +14,5 @@
     - 他のアセットを読み込み、動いた！
     - physics 3D cameraを組み込み、動いた！
     - 読み込んだアセットに当たり判定がない
+- [bevy_apps_learning](https://github.com/77ko88ok/bevy_apps_learning)
+    - 基礎からECSを学ぶ 
