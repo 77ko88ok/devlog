@@ -1,5 +1,8 @@
 # Daily Log
 
+### 2026.11.17
+- OpenCodeとLM Studioとの連携などを学んだ
+
 ### 2926.11.16
 - wgslを学んだ group, binding
 
