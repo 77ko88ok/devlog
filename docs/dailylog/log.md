@@ -1,7 +1,7 @@
 # Daily Log
 
 ### 2026.11.19
-- AIオーケストレーション時のセキュリティMCPを考案した([defender_for_subagents](localLLM/defender_for_subagents.md))
+- AIオーケストレーション時のセキュリティMCPを考案した([defender_for_subagents](../localLLM/defender_for_subagents.md))
 - OpenCodeでのオーケストレーション設定を学んだ
 
 ### 2026.11.18
