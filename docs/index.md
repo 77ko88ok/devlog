@@ -32,3 +32,6 @@
 ## 開発環境の構築
 ### LocalLLM
 - [localLLM](localLLM/progress.md)
+
+### 自作開発中
+- [defender_for_subagents](localLLM/defender_for_subagents.md)
