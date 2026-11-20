@@ -28,3 +28,6 @@
 - Apache-2.0はNOTICEファイルがあれば、その参照か保持が必要[](https://qiita.com/byoo-myoo/items/7844ef2282e29dd194f6)
 - Apache-2.0は特許トロールからの防御がある程度確保される
 
+### Bevyのクレート
+- 含めるクレートはできるだけ小さくする
+- [Bevyのクレート](https://github.com/bevyengine/bevy/blob/main/docs/cargo_features.md)
