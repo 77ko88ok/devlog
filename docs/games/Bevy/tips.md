@@ -1,5 +1,11 @@
 # Bevyを扱う上でのこまごました留意事項
 
+### プラグイン　([Bevy公式クイックスタート：プラグイン](https://bevy.dokyumento.jp/learn/quick-start/getting-started/plugins/))
+- プラグインはAppを変更するコードのコレクション
+- Bevyに貢献されず、別途リリースされたものは、サードパーティプラグイン
+- Bevy公式サイトのAssetにあるものは、サードパーティ製のプラグイン
+- DefaultPluginsでウィンドウが表示されるのは、ウィンドウインターフェースを定義する（ただし、ウィンドウの作成方法を実際に知っているわけではない）WindowPluginと、winitライブラリを使用してOSのネイティブウィンドウAPIを使用してウィンドウを作成する[WinitPlugin]があるため。
+
 ### wslでBevyがgpuを使用しない
 > [!TIP]
 > -> windows環境での開発がbetter   
