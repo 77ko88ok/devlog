@@ -16,7 +16,7 @@
 
 ## 物理エンジン
 - https://github.com/dimforge/rapier/tree/master/bindings/bevy_rapier
-- 
+- https://rapier.rs/docs/user_guides/rust/getting_started
 
 ## プロシージャ生成
 - https://github.com/bones-ai/rust-procedural-world
