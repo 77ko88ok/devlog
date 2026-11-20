@@ -1,5 +1,10 @@
 # Daily Log
 
+### 2026.11.20
+- Bevy公式クイックスタートを学んだ
+- 物理演算Rapierについて情報収集した
+- [Bevy/tips](../games/Bevy/tips.md), [Rust/learning](../rust/learning.md), [Rust/tips](../rust/tips.md)を更新
+
 ### 2026.11.19
 - AIオーケストレーション時のセキュリティMCPを考案した([defender_for_subagents](../localLLM/defender_for_subagents.md))
 - OpenCodeでのオーケストレーション設定を学んだ
