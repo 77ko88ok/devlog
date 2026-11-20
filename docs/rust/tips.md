@@ -22,3 +22,7 @@ define_struct!(Foo);
 define_struct!(Bar);
 ```
 
+### RON
+- JSON(JavaScript Object Notation)ではない、[Rusty Object Notation](https://github.com/ron-rs/ron)
+- RUSTの記法を模した記述ができる、末カンマが許される、コメントアウトが許される
+- `[dependencies] ron=??`が必要
