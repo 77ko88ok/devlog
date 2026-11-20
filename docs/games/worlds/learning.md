@@ -16,6 +16,8 @@
 - ほとんどのアプリではある種の「グローバルにユニーク」なデータも必要。
 - Bevy ECSでは、リソーストレイトを使用して、グローバルにユニークなデータを表す。
 - ResおよびResMutポインターは、リソースへの読み取りおよび書き込みアクセスを提供する。
+- bevyでは、.insert_resource()でリソースを組み込む。
+- 
 
 ## 物理エンジン
 - https://github.com/dimforge/rapier/tree/master/bindings/bevy_rapier
