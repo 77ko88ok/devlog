@@ -13,6 +13,9 @@
 - https://bevy.org/learn/quick-start/getting-started/apps/
 - DefaultPluginsはアプリケーションに「イベントループ」を追加する
 - アプリのECSスケジュールは、「フレーム」ごとに1回ループで実行される
+- ほとんどのアプリではある種の「グローバルにユニーク」なデータも必要。
+- Bevy ECSでは、リソーストレイトを使用して、グローバルにユニークなデータを表す。
+- ResおよびResMutポインターは、リソースへの読み取りおよび書き込みアクセスを提供する。
 
 ## 物理エンジン
 - https://github.com/dimforge/rapier/tree/master/bindings/bevy_rapier
