@@ -11,6 +11,8 @@
 
 ## ECS
 - https://bevy.org/learn/quick-start/getting-started/apps/
+- DefaultPluginsはアプリケーションに「イベントループ」を追加する
+- アプリのECSスケジュールは、「フレーム」ごとに1回ループで実行される
 
 ## 物理エンジン
 - https://github.com/dimforge/rapier/tree/master/bindings/bevy_rapier
