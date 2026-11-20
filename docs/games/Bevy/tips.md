@@ -29,7 +29,8 @@
 
 ### dual MIT/Apache-2.0 license
 - [Relicense Bevy under dual MIT/Apache-2.0](https://github.com/bevyengine/bevy/issues/2373)
-- Apache-2.0はNOTICEファイルがあれば、その参照か保持が必要[](https://qiita.com/byoo-myoo/items/7844ef2282e29dd194f6)
+- Apache-2.0はNOTICEファイルがあれば、その参照か保持が必要[^2]
+> [^2]:https://qiita.com/byoo-myoo/items/7844ef2282e29dd194f6
 - Apache-2.0は特許トロールからの防御がある程度確保される
 
 ---
