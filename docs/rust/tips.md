@@ -26,3 +26,7 @@ define_struct!(Bar);
 - JSON(JavaScript Object Notation)ではない、[Rusty Object Notation](https://github.com/ron-rs/ron)
 - RUSTの記法を模した記述ができる、末カンマが許される、コメントアウトが許される
 - `[dependencies] ron=??`が必要
+
+### コーディングにおける名称
+- {}は波かっこ
+- [括弧(){}[]の英語](https://zenn.dev/ynakamura/articles/790a5a8bd2e2a8d0c271)
