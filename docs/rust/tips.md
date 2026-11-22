@@ -30,3 +30,7 @@ define_struct!(Bar);
 ### コーディングにおける名称
 - {}は波かっこ
 - [括弧(){}[]の英語](https://zenn.dev/ynakamura/articles/790a5a8bd2e2a8d0c271)
+- ```Rust
+  use Bevy::prelude::*;
+  ```
+  の*は、[glob演算子](https://doc.rust-jp.rs/book-ja/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#glob%E6%BC%94%E7%AE%97%E5%AD%90)
