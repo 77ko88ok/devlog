@@ -8,6 +8,7 @@
 ### modとuse　[The book モジュールを定義して、スコープとプライバシーを制御する](https://doc.rust-jp.rs/book-ja/ch07-02-defining-modules-to-control-scope-and-privacy.html)
 - modはモジュールを登録する。登録したモジュール内のコードを使用可能にする（コンパイラが読み取れるようにする）
 - useは登録したモジュール内や他のモジュール内のコードへのショートカットを作る
+- 自作モジュールのコードを他のモジュールやクレートルートで使用する場合には、該当コードの公開（pubをつける）を忘れずに
 
 ### 未整理
 - wgpuは、webGPU APIを基にした？、Rustのcrate？で、Rustでgpuを使用する手段の一つ（[wgpu(Rust)入門|wgpu30で動く三角関数](https://www.issoh.co.jp/tech/details/4094/)）
