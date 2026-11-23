@@ -3,7 +3,15 @@
 ### Rust-GlancerをLSPとして使用
 - Rust-Analyzerは標準的なLSPだけれど、メモリ消費や逐次的なチェック、リアルタイムのデバッグが重かった
 - メモリ効率に特化したLSPであるRust-Glancerに切り替えた。リアルタイム性はないが、むしろそれが軽快で、実装中に警告が出ないのも逆に気が散らなくて、自分には合っていた。
-- https://rust-glancer.github.io/
+- [Rust-Glancer](https://rust-glancer.github.io/)
+
+### Cargo doc md
+- Cargo docでクレートのドキュメントをローカルに作成できる
+- 作成されたドキュメントはHTML形式で人が見るには見やすいが、LLMとの協働では、トークン消費が気になる
+- jsonでもよいのかもしれないが、記号やネストによってトークン消費が増えることがある
+- Cargo doc（というかrustdoc）でjsonを作成し、それをマークダウンに変更するクレートがあってよい感じだった
+- [cargo-doc-md](https://github.com/Crazytieguy/cargo-doc-md)
+- 使用する際は、`cargo install cargo-doc-md`でインストールして、`cargo doc-md`
 
 ### derive付与の挙動
 - #[derive(...)] は 1つの型（struct, enum, union）に対して適用する属性なので、複数の型を一度に指定することはできない。つまり、 「複数の struct をまとめて derive する」はできない。
