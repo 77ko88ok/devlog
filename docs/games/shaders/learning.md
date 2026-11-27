@@ -36,8 +36,13 @@
 - 注意書きの通り、古いクレート・APIの記述が混ざっているが、根本的な設計思想はおおむね変わっていないのだろうと思う
 - この記述と、Bevy 0.20までのちがいを学んでいきたい
 
+### [DeepWikiのbevyページ](https://deepwiki.com/bevyengine/bevy/5-rendering-system)
+- RenderDeviceは、wgpu::Deviceのラッパー
+- binding属性として設定できるのは、uniform, texture, storage_texture, sampler, storage
+- PipelineCacheでレンダーパイプラインとコンピュートパイプラインを保存できる
+
 ### そのほかWEB上の情報
 - [WebGLからWebGPUにステップアップしよ＞！](https://qiita.com/emadurandal/items/624fe7edd147d5a648b1)
 - [opengl webgl 違いをわかりやすく解説する完全ガイド：中学生にも伝わるポイント3つ](https://chigai2.fromation.co.jp/archives/36098)
 - [WGPU学習リソース](https://zenn.dev/omini/articles/8c866e2d2060aa)
-- [DeepWikiのbevyページ](https://deepwiki.com/bevyengine/bevy/5-rendering-system)
+-
