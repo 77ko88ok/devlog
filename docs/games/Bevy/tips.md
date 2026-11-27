@@ -45,3 +45,8 @@
 - init_resourceで初期化
 - insert_resourceで追加・上書きできる
 - init_resource, insert_resourceはAppインスタンスが立ち上がったときに読み込まれるので、記述の順番通りでない。これはそれを気にしなくてよいし、気にする必要があるならそれぞれを明確に分ける必要がある。
+
+---
+
+### コンソール対応
+- [Nintendo Switch 対応crate](https://docs.rs/switchbrew_bevy/latest/switchbrew_bevy/)
