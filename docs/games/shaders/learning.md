@@ -30,7 +30,11 @@
 -
 
 ### [リアルタイムグラフィックスの数学](https://gihyo.jp/book/2022/978-4-297-13034-3)
-- 
+
+### [Bevy book](https://bevy.org/learn/book/the-renderer/)
+- "This page is hidden because an ancestor is hidden"ということで、なかなか見つけられなかったが、やっとbevyのレンダリングパイプラインについての公式ドキュメントに巡り合った
+- 注意書きの通り、古いクレート・APIの記述が混ざっているが、根本的な設計思想はおおむね変わっていないのだろうと思う
+- この記述と、Bevy 0.20までのちがいを学んでいきたい
 
 ### そのほかWEB上の情報
 - [WebGLからWebGPUにステップアップしよう！](https://qiita.com/emadurandal/items/624fe7edd147d5a648b1)
