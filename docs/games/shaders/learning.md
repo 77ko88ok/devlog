@@ -7,6 +7,7 @@
 - wgslはrustに近い記述する独自言語で、wgpuはrustで実装されたWebGPU API
 - Bevy 0.20で併用できるようになったweslは、wgslの拡張版
 - つまり、自分にとって実務に直結しやすいのはwgsl
+- wgslについては[別ファイル](wgsl/leanrning.md)
 
 ## わかっていないこと
 - wgslの記法
